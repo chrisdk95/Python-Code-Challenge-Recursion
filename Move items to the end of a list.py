@@ -1,8 +1,10 @@
-###
-Alex is a gemstone collector who recently placed an order for an assortment of ambers, jades, pearls, and sapphires. When he opened the delivery package, Alex found that his list of gemstones was mixed up.
+# ###
+# Alex is a gemstone collector who recently placed an order for an assortment of ambers, jades, pearls, and sapphires. When he opened the delivery package, Alex found that his list of gemstones was mixed up.
+# ###
 
-Alex is particularly fond of a certain type of gemstone and wants to move them to the end of his gallery display. Let’s design a recursive algorithm to help Alex set up his gallery
-###
+# ###
+# Alex is particularly fond of a certain type of gemstone and wants to move them to the end of his gallery display. Let’s design a recursive algorithm to help Alex set up his gallery
+# ###
 
 # define move_to_end() here
 def move_to_end(lst, val):
